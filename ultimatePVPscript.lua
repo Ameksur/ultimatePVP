@@ -220,70 +220,74 @@ local ultimatePVP = {
 	UICorner_54 = Instance.new("UICorner"),
 	UITextSizeConstraint_35 = Instance.new("UITextSizeConstraint"),
 	UIPadding_35 = Instance.new("UIPadding"),
+	Telemotion = Instance.new("TextButton"),
+	UICorner_55 = Instance.new("UICorner"),
+	UITextSizeConstraint_36 = Instance.new("UITextSizeConstraint"),
+	UIPadding_36 = Instance.new("UIPadding"),
 	UIAspectRatioConstraint_26 = Instance.new("UIAspectRatioConstraint"),
 	_5P = Instance.new("Frame"),
 	UIAspectRatioConstraint_27 = Instance.new("UIAspectRatioConstraint"),
 	_6P = Instance.new("Frame"),
 	ChooseColor = Instance.new("Frame"),
 	Color = Instance.new("Frame"),
-	UICorner_55 = Instance.new("UICorner"),
-	_1Color = Instance.new("TextButton"),
 	UICorner_56 = Instance.new("UICorner"),
+	_1Color = Instance.new("TextButton"),
+	UICorner_57 = Instance.new("UICorner"),
 	UIGradient_4 = Instance.new("UIGradient"),
 	UIAspectRatioConstraint_28 = Instance.new("UIAspectRatioConstraint"),
 	UIListLayout = Instance.new("UIListLayout"),
 	_2Color = Instance.new("TextButton"),
-	UICorner_57 = Instance.new("UICorner"),
+	UICorner_58 = Instance.new("UICorner"),
 	UIGradient_5 = Instance.new("UIGradient"),
 	UIAspectRatioConstraint_29 = Instance.new("UIAspectRatioConstraint"),
 	_3Color = Instance.new("TextButton"),
-	UICorner_58 = Instance.new("UICorner"),
+	UICorner_59 = Instance.new("UICorner"),
 	UIGradient_6 = Instance.new("UIGradient"),
 	UIAspectRatioConstraint_30 = Instance.new("UIAspectRatioConstraint"),
 	_4Color = Instance.new("TextButton"),
-	UICorner_59 = Instance.new("UICorner"),
+	UICorner_60 = Instance.new("UICorner"),
 	UIGradient_7 = Instance.new("UIGradient"),
 	UIAspectRatioConstraint_31 = Instance.new("UIAspectRatioConstraint"),
 	_5Color = Instance.new("TextButton"),
-	UICorner_60 = Instance.new("UICorner"),
+	UICorner_61 = Instance.new("UICorner"),
 	UIGradient_8 = Instance.new("UIGradient"),
 	UIAspectRatioConstraint_32 = Instance.new("UIAspectRatioConstraint"),
 	_6Color = Instance.new("TextButton"),
-	UICorner_61 = Instance.new("UICorner"),
+	UICorner_62 = Instance.new("UICorner"),
 	UIGradient_9 = Instance.new("UIGradient"),
 	UIAspectRatioConstraint_33 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_34 = Instance.new("UIAspectRatioConstraint"),
-	UICorner_62 = Instance.new("UICorner"),
+	UICorner_63 = Instance.new("UICorner"),
 	Color_2 = Instance.new("TextLabel"),
-	UITextSizeConstraint_36 = Instance.new("UITextSizeConstraint"),
-	UIPadding_36 = Instance.new("UIPadding"),
+	UITextSizeConstraint_37 = Instance.new("UITextSizeConstraint"),
+	UIPadding_37 = Instance.new("UIPadding"),
 	UIAspectRatioConstraint_35 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_36 = Instance.new("UIAspectRatioConstraint"),
 	SoundSettings = Instance.new("Frame"),
-	UICorner_63 = Instance.new("UICorner"),
-	SoundEffect = Instance.new("TextLabel"),
 	UICorner_64 = Instance.new("UICorner"),
-	UITextSizeConstraint_37 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_37 = Instance.new("UIAspectRatioConstraint"),
-	YNS = Instance.new("TextButton"),
+	SoundEffect = Instance.new("TextLabel"),
 	UICorner_65 = Instance.new("UICorner"),
 	UITextSizeConstraint_38 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_37 = Instance.new("UIAspectRatioConstraint"),
+	YNS = Instance.new("TextButton"),
+	UICorner_66 = Instance.new("UICorner"),
+	UITextSizeConstraint_39 = Instance.new("UITextSizeConstraint"),
 	UIAspectRatioConstraint_38 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_39 = Instance.new("UIAspectRatioConstraint"),
 	UpdateInfo_2 = Instance.new("TextLabel"),
-	UITextSizeConstraint_39 = Instance.new("UITextSizeConstraint"),
-	UIPadding_37 = Instance.new("UIPadding"),
-	UICorner_66 = Instance.new("UICorner"),
+	UITextSizeConstraint_40 = Instance.new("UITextSizeConstraint"),
+	UIPadding_38 = Instance.new("UIPadding"),
+	UICorner_67 = Instance.new("UICorner"),
 	UIAspectRatioConstraint_40 = Instance.new("UIAspectRatioConstraint"),
 	InfoSettings = Instance.new("Frame"),
-	UICorner_67 = Instance.new("UICorner"),
-	PlayerInfo_2 = Instance.new("TextLabel"),
 	UICorner_68 = Instance.new("UICorner"),
-	UITextSizeConstraint_40 = Instance.new("UITextSizeConstraint"),
-	UIAspectRatioConstraint_41 = Instance.new("UIAspectRatioConstraint"),
-	YNPI = Instance.new("TextButton"),
+	PlayerInfo_2 = Instance.new("TextLabel"),
 	UICorner_69 = Instance.new("UICorner"),
 	UITextSizeConstraint_41 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_41 = Instance.new("UIAspectRatioConstraint"),
+	YNPI = Instance.new("TextButton"),
+	UICorner_70 = Instance.new("UICorner"),
+	UITextSizeConstraint_42 = Instance.new("UITextSizeConstraint"),
 	UIAspectRatioConstraint_42 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_43 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_44 = Instance.new("UIAspectRatioConstraint"),
@@ -293,13 +297,22 @@ local ultimatePVP = {
 	UIAspectRatioConstraint_48 = Instance.new("UIAspectRatioConstraint"),
 	platformGui = Instance.new("Frame"),
 	UIGradient_10 = Instance.new("UIGradient"),
-	UICorner_70 = Instance.new("UICorner"),
-	Platform_2 = Instance.new("TextButton"),
 	UICorner_71 = Instance.new("UICorner"),
-	UIPadding_38 = Instance.new("UIPadding"),
-	UITextSizeConstraint_42 = Instance.new("UITextSizeConstraint"),
+	Platform_2 = Instance.new("TextButton"),
+	UICorner_72 = Instance.new("UICorner"),
+	UIPadding_39 = Instance.new("UIPadding"),
+	UITextSizeConstraint_43 = Instance.new("UITextSizeConstraint"),
 	UIAspectRatioConstraint_49 = Instance.new("UIAspectRatioConstraint"),
 	UIAspectRatioConstraint_50 = Instance.new("UIAspectRatioConstraint"),
+	telemotionGui = Instance.new("Frame"),
+	UIGradient_11 = Instance.new("UIGradient"),
+	UICorner_73 = Instance.new("UICorner"),
+	Telemotion_2 = Instance.new("TextButton"),
+	UICorner_74 = Instance.new("UICorner"),
+	UIPadding_40 = Instance.new("UIPadding"),
+	UITextSizeConstraint_44 = Instance.new("UITextSizeConstraint"),
+	UIAspectRatioConstraint_51 = Instance.new("UIAspectRatioConstraint"),
+	UIAspectRatioConstraint_52 = Instance.new("UIAspectRatioConstraint"),
 }
 
 --Properties:
@@ -1718,6 +1731,34 @@ ultimatePVP.UIPadding_35.PaddingLeft = UDim.new(0.150000006, 0)
 ultimatePVP.UIPadding_35.PaddingRight = UDim.new(0.150000006, 0)
 ultimatePVP.UIPadding_35.PaddingTop = UDim.new(0.150000006, 0)
 
+ultimatePVP.Telemotion.Name = "Telemotion"
+ultimatePVP.Telemotion.Parent = ultimatePVP.Buttons_6
+ultimatePVP.Telemotion.AnchorPoint = Vector2.new(0.5, 0.5)
+ultimatePVP.Telemotion.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ultimatePVP.Telemotion.BackgroundTransparency = 0.700
+ultimatePVP.Telemotion.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ultimatePVP.Telemotion.BorderSizePixel = 0
+ultimatePVP.Telemotion.Position = UDim2.new(0.5, 0, 0.735000014, 0)
+ultimatePVP.Telemotion.Size = UDim2.new(0.899999976, 0, 0.25, 0)
+ultimatePVP.Telemotion.Font = Enum.Font.FredokaOne
+ultimatePVP.Telemotion.Text = "Telemotion"
+ultimatePVP.Telemotion.TextColor3 = Color3.fromRGB(110, 210, 240)
+ultimatePVP.Telemotion.TextScaled = true
+ultimatePVP.Telemotion.TextSize = 25.000
+ultimatePVP.Telemotion.TextWrapped = true
+
+ultimatePVP.UICorner_55.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_55.Parent = ultimatePVP.Telemotion
+
+ultimatePVP.UITextSizeConstraint_36.Parent = ultimatePVP.Telemotion
+ultimatePVP.UITextSizeConstraint_36.MaxTextSize = 25
+
+ultimatePVP.UIPadding_36.Parent = ultimatePVP.Telemotion
+ultimatePVP.UIPadding_36.PaddingBottom = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_36.PaddingLeft = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_36.PaddingRight = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_36.PaddingTop = UDim.new(0.100000001, 0)
+
 ultimatePVP.UIAspectRatioConstraint_26.Parent = ultimatePVP._4P
 ultimatePVP.UIAspectRatioConstraint_26.AspectRatio = 1.402
 
@@ -1766,8 +1807,8 @@ ultimatePVP.Color.BorderSizePixel = 0
 ultimatePVP.Color.Position = UDim2.new(0.5, 0, 0.600000024, 0)
 ultimatePVP.Color.Size = UDim2.new(0.949999988, 0, 0.600000024, 0)
 
-ultimatePVP.UICorner_55.CornerRadius = UDim.new(0.100000001, 0)
-ultimatePVP.UICorner_55.Parent = ultimatePVP.Color
+ultimatePVP.UICorner_56.CornerRadius = UDim.new(0.100000001, 0)
+ultimatePVP.UICorner_56.Parent = ultimatePVP.Color
 
 ultimatePVP._1Color.Name = "1Color"
 ultimatePVP._1Color.Parent = ultimatePVP.Color
@@ -1784,8 +1825,8 @@ ultimatePVP._1Color.TextScaled = true
 ultimatePVP._1Color.TextSize = 1.000
 ultimatePVP._1Color.TextWrapped = true
 
-ultimatePVP.UICorner_56.CornerRadius = UDim.new(0.150000006, 0)
-ultimatePVP.UICorner_56.Parent = ultimatePVP._1Color
+ultimatePVP.UICorner_57.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_57.Parent = ultimatePVP._1Color
 
 ultimatePVP.UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(110, 210, 240)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(95, 120, 240))}
 ultimatePVP.UIGradient_4.Rotation = 45
@@ -1815,8 +1856,8 @@ ultimatePVP._2Color.TextScaled = true
 ultimatePVP._2Color.TextSize = 1.000
 ultimatePVP._2Color.TextWrapped = true
 
-ultimatePVP.UICorner_57.CornerRadius = UDim.new(0.150000006, 0)
-ultimatePVP.UICorner_57.Parent = ultimatePVP._2Color
+ultimatePVP.UICorner_58.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_58.Parent = ultimatePVP._2Color
 
 ultimatePVP.UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 240, 20)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 250, 175))}
 ultimatePVP.UIGradient_5.Rotation = 45
@@ -1839,8 +1880,8 @@ ultimatePVP._3Color.TextScaled = true
 ultimatePVP._3Color.TextSize = 1.000
 ultimatePVP._3Color.TextWrapped = true
 
-ultimatePVP.UICorner_58.CornerRadius = UDim.new(0.150000006, 0)
-ultimatePVP.UICorner_58.Parent = ultimatePVP._3Color
+ultimatePVP.UICorner_59.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_59.Parent = ultimatePVP._3Color
 
 ultimatePVP.UIGradient_6.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(240, 240, 240)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(165, 165, 165))}
 ultimatePVP.UIGradient_6.Rotation = 45
@@ -1863,8 +1904,8 @@ ultimatePVP._4Color.TextScaled = true
 ultimatePVP._4Color.TextSize = 1.000
 ultimatePVP._4Color.TextWrapped = true
 
-ultimatePVP.UICorner_59.CornerRadius = UDim.new(0.150000006, 0)
-ultimatePVP.UICorner_59.Parent = ultimatePVP._4Color
+ultimatePVP.UICorner_60.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_60.Parent = ultimatePVP._4Color
 
 ultimatePVP.UIGradient_7.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(240, 140, 20)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(240, 95, 10))}
 ultimatePVP.UIGradient_7.Rotation = 45
@@ -1887,8 +1928,8 @@ ultimatePVP._5Color.TextScaled = true
 ultimatePVP._5Color.TextSize = 1.000
 ultimatePVP._5Color.TextWrapped = true
 
-ultimatePVP.UICorner_60.CornerRadius = UDim.new(0.150000006, 0)
-ultimatePVP.UICorner_60.Parent = ultimatePVP._5Color
+ultimatePVP.UICorner_61.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_61.Parent = ultimatePVP._5Color
 
 ultimatePVP.UIGradient_8.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(240, 10, 230)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(160, 50, 240))}
 ultimatePVP.UIGradient_8.Rotation = 45
@@ -1911,8 +1952,8 @@ ultimatePVP._6Color.TextScaled = true
 ultimatePVP._6Color.TextSize = 1.000
 ultimatePVP._6Color.TextWrapped = true
 
-ultimatePVP.UICorner_61.CornerRadius = UDim.new(0.150000006, 0)
-ultimatePVP.UICorner_61.Parent = ultimatePVP._6Color
+ultimatePVP.UICorner_62.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_62.Parent = ultimatePVP._6Color
 
 ultimatePVP.UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 25, 100)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(240, 15, 40))}
 ultimatePVP.UIGradient_9.Rotation = 45
@@ -1923,8 +1964,8 @@ ultimatePVP.UIAspectRatioConstraint_33.Parent = ultimatePVP._6Color
 ultimatePVP.UIAspectRatioConstraint_34.Parent = ultimatePVP.Color
 ultimatePVP.UIAspectRatioConstraint_34.AspectRatio = 7.031
 
-ultimatePVP.UICorner_62.CornerRadius = UDim.new(0.100000001, 0)
-ultimatePVP.UICorner_62.Parent = ultimatePVP.ChooseColor
+ultimatePVP.UICorner_63.CornerRadius = UDim.new(0.100000001, 0)
+ultimatePVP.UICorner_63.Parent = ultimatePVP.ChooseColor
 
 ultimatePVP.Color_2.Name = "Color"
 ultimatePVP.Color_2.Parent = ultimatePVP.ChooseColor
@@ -1942,12 +1983,12 @@ ultimatePVP.Color_2.TextScaled = true
 ultimatePVP.Color_2.TextSize = 15.000
 ultimatePVP.Color_2.TextWrapped = true
 
-ultimatePVP.UITextSizeConstraint_36.Parent = ultimatePVP.Color_2
-ultimatePVP.UITextSizeConstraint_36.MaxTextSize = 20
+ultimatePVP.UITextSizeConstraint_37.Parent = ultimatePVP.Color_2
+ultimatePVP.UITextSizeConstraint_37.MaxTextSize = 20
 
-ultimatePVP.UIPadding_36.Parent = ultimatePVP.Color_2
-ultimatePVP.UIPadding_36.PaddingBottom = UDim.new(0.00999999978, 0)
-ultimatePVP.UIPadding_36.PaddingTop = UDim.new(0.00999999978, 0)
+ultimatePVP.UIPadding_37.Parent = ultimatePVP.Color_2
+ultimatePVP.UIPadding_37.PaddingBottom = UDim.new(0.00999999978, 0)
+ultimatePVP.UIPadding_37.PaddingTop = UDim.new(0.00999999978, 0)
 
 ultimatePVP.UIAspectRatioConstraint_35.Parent = ultimatePVP.Color_2
 ultimatePVP.UIAspectRatioConstraint_35.AspectRatio = 16.875
@@ -1965,8 +2006,8 @@ ultimatePVP.SoundSettings.BorderSizePixel = 0
 ultimatePVP.SoundSettings.Position = UDim2.new(0.200000003, 0, 0.469999999, 0)
 ultimatePVP.SoundSettings.Size = UDim2.new(0.349999994, 0, 0.150000006, 0)
 
-ultimatePVP.UICorner_63.CornerRadius = UDim.new(0.200000003, 0)
-ultimatePVP.UICorner_63.Parent = ultimatePVP.SoundSettings
+ultimatePVP.UICorner_64.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_64.Parent = ultimatePVP.SoundSettings
 
 ultimatePVP.SoundEffect.Name = "SoundEffect"
 ultimatePVP.SoundEffect.Parent = ultimatePVP.SoundSettings
@@ -1984,11 +2025,11 @@ ultimatePVP.SoundEffect.TextScaled = true
 ultimatePVP.SoundEffect.TextSize = 20.000
 ultimatePVP.SoundEffect.TextWrapped = true
 
-ultimatePVP.UICorner_64.CornerRadius = UDim.new(0.200000003, 0)
-ultimatePVP.UICorner_64.Parent = ultimatePVP.SoundEffect
+ultimatePVP.UICorner_65.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_65.Parent = ultimatePVP.SoundEffect
 
-ultimatePVP.UITextSizeConstraint_37.Parent = ultimatePVP.SoundEffect
-ultimatePVP.UITextSizeConstraint_37.MaxTextSize = 20
+ultimatePVP.UITextSizeConstraint_38.Parent = ultimatePVP.SoundEffect
+ultimatePVP.UITextSizeConstraint_38.MaxTextSize = 20
 
 ultimatePVP.UIAspectRatioConstraint_37.Parent = ultimatePVP.SoundEffect
 ultimatePVP.UIAspectRatioConstraint_37.AspectRatio = 2.454
@@ -2009,11 +2050,11 @@ ultimatePVP.YNS.TextScaled = true
 ultimatePVP.YNS.TextSize = 25.000
 ultimatePVP.YNS.TextWrapped = true
 
-ultimatePVP.UICorner_65.CornerRadius = UDim.new(0.200000003, 0)
-ultimatePVP.UICorner_65.Parent = ultimatePVP.YNS
+ultimatePVP.UICorner_66.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_66.Parent = ultimatePVP.YNS
 
-ultimatePVP.UITextSizeConstraint_38.Parent = ultimatePVP.YNS
-ultimatePVP.UITextSizeConstraint_38.MaxTextSize = 20
+ultimatePVP.UITextSizeConstraint_39.Parent = ultimatePVP.YNS
+ultimatePVP.UITextSizeConstraint_39.MaxTextSize = 20
 
 ultimatePVP.UIAspectRatioConstraint_38.Parent = ultimatePVP.YNS
 ultimatePVP.UIAspectRatioConstraint_38.AspectRatio = 1.227
@@ -2039,16 +2080,16 @@ ultimatePVP.UpdateInfo_2.TextTransparency = 0.300
 ultimatePVP.UpdateInfo_2.TextWrapped = true
 ultimatePVP.UpdateInfo_2.TextXAlignment = Enum.TextXAlignment.Left
 
-ultimatePVP.UITextSizeConstraint_39.Parent = ultimatePVP.UpdateInfo_2
-ultimatePVP.UITextSizeConstraint_39.MaxTextSize = 15
+ultimatePVP.UITextSizeConstraint_40.Parent = ultimatePVP.UpdateInfo_2
+ultimatePVP.UITextSizeConstraint_40.MaxTextSize = 15
 
-ultimatePVP.UIPadding_37.Parent = ultimatePVP.UpdateInfo_2
-ultimatePVP.UIPadding_37.PaddingBottom = UDim.new(0.100000001, 0)
-ultimatePVP.UIPadding_37.PaddingLeft = UDim.new(0.0199999996, 0)
-ultimatePVP.UIPadding_37.PaddingTop = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_38.Parent = ultimatePVP.UpdateInfo_2
+ultimatePVP.UIPadding_38.PaddingBottom = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_38.PaddingLeft = UDim.new(0.0199999996, 0)
+ultimatePVP.UIPadding_38.PaddingTop = UDim.new(0.100000001, 0)
 
-ultimatePVP.UICorner_66.CornerRadius = UDim.new(0.25, 0)
-ultimatePVP.UICorner_66.Parent = ultimatePVP.UpdateInfo_2
+ultimatePVP.UICorner_67.CornerRadius = UDim.new(0.25, 0)
+ultimatePVP.UICorner_67.Parent = ultimatePVP.UpdateInfo_2
 
 ultimatePVP.UIAspectRatioConstraint_40.Parent = ultimatePVP.UpdateInfo_2
 ultimatePVP.UIAspectRatioConstraint_40.AspectRatio = 13.322
@@ -2063,8 +2104,8 @@ ultimatePVP.InfoSettings.BorderSizePixel = 0
 ultimatePVP.InfoSettings.Position = UDim2.new(0.200000003, 0, 0.649999976, 0)
 ultimatePVP.InfoSettings.Size = UDim2.new(0.349999994, 0, 0.150000006, 0)
 
-ultimatePVP.UICorner_67.CornerRadius = UDim.new(0.200000003, 0)
-ultimatePVP.UICorner_67.Parent = ultimatePVP.InfoSettings
+ultimatePVP.UICorner_68.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_68.Parent = ultimatePVP.InfoSettings
 
 ultimatePVP.PlayerInfo_2.Name = "PlayerInfo"
 ultimatePVP.PlayerInfo_2.Parent = ultimatePVP.InfoSettings
@@ -2082,11 +2123,11 @@ ultimatePVP.PlayerInfo_2.TextScaled = true
 ultimatePVP.PlayerInfo_2.TextSize = 20.000
 ultimatePVP.PlayerInfo_2.TextWrapped = true
 
-ultimatePVP.UICorner_68.CornerRadius = UDim.new(0.200000003, 0)
-ultimatePVP.UICorner_68.Parent = ultimatePVP.PlayerInfo_2
+ultimatePVP.UICorner_69.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_69.Parent = ultimatePVP.PlayerInfo_2
 
-ultimatePVP.UITextSizeConstraint_40.Parent = ultimatePVP.PlayerInfo_2
-ultimatePVP.UITextSizeConstraint_40.MaxTextSize = 20
+ultimatePVP.UITextSizeConstraint_41.Parent = ultimatePVP.PlayerInfo_2
+ultimatePVP.UITextSizeConstraint_41.MaxTextSize = 20
 
 ultimatePVP.UIAspectRatioConstraint_41.Parent = ultimatePVP.PlayerInfo_2
 ultimatePVP.UIAspectRatioConstraint_41.AspectRatio = 2.454
@@ -2107,11 +2148,11 @@ ultimatePVP.YNPI.TextScaled = true
 ultimatePVP.YNPI.TextSize = 25.000
 ultimatePVP.YNPI.TextWrapped = true
 
-ultimatePVP.UICorner_69.CornerRadius = UDim.new(0.200000003, 0)
-ultimatePVP.UICorner_69.Parent = ultimatePVP.YNPI
+ultimatePVP.UICorner_70.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_70.Parent = ultimatePVP.YNPI
 
-ultimatePVP.UITextSizeConstraint_41.Parent = ultimatePVP.YNPI
-ultimatePVP.UITextSizeConstraint_41.MaxTextSize = 20
+ultimatePVP.UITextSizeConstraint_42.Parent = ultimatePVP.YNPI
+ultimatePVP.UITextSizeConstraint_42.MaxTextSize = 20
 
 ultimatePVP.UIAspectRatioConstraint_42.Parent = ultimatePVP.YNPI
 ultimatePVP.UIAspectRatioConstraint_42.AspectRatio = 1.227
@@ -2149,8 +2190,8 @@ ultimatePVP.UIGradient_10.Offset = Vector2.new(0, 0.300000012)
 ultimatePVP.UIGradient_10.Rotation = 90
 ultimatePVP.UIGradient_10.Parent = ultimatePVP.platformGui
 
-ultimatePVP.UICorner_70.CornerRadius = UDim.new(0.200000003, 0)
-ultimatePVP.UICorner_70.Parent = ultimatePVP.platformGui
+ultimatePVP.UICorner_71.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_71.Parent = ultimatePVP.platformGui
 
 ultimatePVP.Platform_2.Name = "Platform"
 ultimatePVP.Platform_2.Parent = ultimatePVP.platformGui
@@ -2168,17 +2209,17 @@ ultimatePVP.Platform_2.TextScaled = true
 ultimatePVP.Platform_2.TextSize = 30.000
 ultimatePVP.Platform_2.TextWrapped = true
 
-ultimatePVP.UICorner_71.CornerRadius = UDim.new(0.150000006, 0)
-ultimatePVP.UICorner_71.Parent = ultimatePVP.Platform_2
+ultimatePVP.UICorner_72.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_72.Parent = ultimatePVP.Platform_2
 
-ultimatePVP.UIPadding_38.Parent = ultimatePVP.Platform_2
-ultimatePVP.UIPadding_38.PaddingBottom = UDim.new(0.100000001, 0)
-ultimatePVP.UIPadding_38.PaddingLeft = UDim.new(0.100000001, 0)
-ultimatePVP.UIPadding_38.PaddingRight = UDim.new(0.100000001, 0)
-ultimatePVP.UIPadding_38.PaddingTop = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_39.Parent = ultimatePVP.Platform_2
+ultimatePVP.UIPadding_39.PaddingBottom = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_39.PaddingLeft = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_39.PaddingRight = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_39.PaddingTop = UDim.new(0.100000001, 0)
 
-ultimatePVP.UITextSizeConstraint_42.Parent = ultimatePVP.Platform_2
-ultimatePVP.UITextSizeConstraint_42.MaxTextSize = 30
+ultimatePVP.UITextSizeConstraint_43.Parent = ultimatePVP.Platform_2
+ultimatePVP.UITextSizeConstraint_43.MaxTextSize = 30
 
 ultimatePVP.UIAspectRatioConstraint_49.Parent = ultimatePVP.Platform_2
 ultimatePVP.UIAspectRatioConstraint_49.AspectRatio = 3.603
@@ -2186,9 +2227,61 @@ ultimatePVP.UIAspectRatioConstraint_49.AspectRatio = 3.603
 ultimatePVP.UIAspectRatioConstraint_50.Parent = ultimatePVP.platformGui
 ultimatePVP.UIAspectRatioConstraint_50.AspectRatio = 3.066
 
+ultimatePVP.telemotionGui.Name = "telemotionGui"
+ultimatePVP.telemotionGui.Parent = ultimatePVP.ultimatePVP
+ultimatePVP.telemotionGui.AnchorPoint = Vector2.new(0.5, 0.5)
+ultimatePVP.telemotionGui.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+ultimatePVP.telemotionGui.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ultimatePVP.telemotionGui.BorderSizePixel = 0
+ultimatePVP.telemotionGui.Position = UDim2.new(0.850000024, 0, 0.310000002, 0)
+ultimatePVP.telemotionGui.Size = UDim2.new(0.150000006, 0, 0.100000001, 0)
+ultimatePVP.telemotionGui.Visible = false
+
+ultimatePVP.UIGradient_11.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(220, 220, 220)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(40, 40, 40))}
+ultimatePVP.UIGradient_11.Offset = Vector2.new(0, 0.300000012)
+ultimatePVP.UIGradient_11.Rotation = 90
+ultimatePVP.UIGradient_11.Parent = ultimatePVP.telemotionGui
+
+ultimatePVP.UICorner_73.CornerRadius = UDim.new(0.200000003, 0)
+ultimatePVP.UICorner_73.Parent = ultimatePVP.telemotionGui
+
+ultimatePVP.Telemotion_2.Name = "Telemotion"
+ultimatePVP.Telemotion_2.Parent = ultimatePVP.telemotionGui
+ultimatePVP.Telemotion_2.AnchorPoint = Vector2.new(0.5, 0.5)
+ultimatePVP.Telemotion_2.BackgroundColor3 = Color3.fromRGB(180, 180, 180)
+ultimatePVP.Telemotion_2.BackgroundTransparency = 0.700
+ultimatePVP.Telemotion_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ultimatePVP.Telemotion_2.BorderSizePixel = 0
+ultimatePVP.Telemotion_2.Position = UDim2.new(0.5, 0, 0.5, 0)
+ultimatePVP.Telemotion_2.Size = UDim2.new(0.939999998, 0, 0.800000012, 0)
+ultimatePVP.Telemotion_2.Font = Enum.Font.FredokaOne
+ultimatePVP.Telemotion_2.Text = "Telemotion"
+ultimatePVP.Telemotion_2.TextColor3 = Color3.fromRGB(110, 210, 240)
+ultimatePVP.Telemotion_2.TextScaled = true
+ultimatePVP.Telemotion_2.TextSize = 30.000
+ultimatePVP.Telemotion_2.TextWrapped = true
+
+ultimatePVP.UICorner_74.CornerRadius = UDim.new(0.150000006, 0)
+ultimatePVP.UICorner_74.Parent = ultimatePVP.Telemotion_2
+
+ultimatePVP.UIPadding_40.Parent = ultimatePVP.Telemotion_2
+ultimatePVP.UIPadding_40.PaddingBottom = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_40.PaddingLeft = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_40.PaddingRight = UDim.new(0.100000001, 0)
+ultimatePVP.UIPadding_40.PaddingTop = UDim.new(0.100000001, 0)
+
+ultimatePVP.UITextSizeConstraint_44.Parent = ultimatePVP.Telemotion_2
+ultimatePVP.UITextSizeConstraint_44.MaxTextSize = 30
+
+ultimatePVP.UIAspectRatioConstraint_51.Parent = ultimatePVP.Telemotion_2
+ultimatePVP.UIAspectRatioConstraint_51.AspectRatio = 3.603
+
+ultimatePVP.UIAspectRatioConstraint_52.Parent = ultimatePVP.telemotionGui
+ultimatePVP.UIAspectRatioConstraint_52.AspectRatio = 3.066
+
 -- Scripts:
 
-local function LCDF_fake_script() -- ultimatePVP.ultimatePVP.GradientManager 
+local function AWZQ_fake_script() -- ultimatePVP.ultimatePVP.GradientManager 
 	local script = Instance.new('LocalScript', ultimatePVP.ultimatePVP)
 
 	local buttonsFolder = game.Players.LocalPlayer.PlayerGui.ultimatePVP.Gui.Warp.WarpMenu.Functions["6P"].ChooseColor.Color
@@ -2325,8 +2418,8 @@ local function LCDF_fake_script() -- ultimatePVP.ultimatePVP.GradientManager
 		end
 	end)
 end
-coroutine.wrap(LCDF_fake_script)()
-local function KVND_fake_script() -- ultimatePVP.Button.drag 
+coroutine.wrap(AWZQ_fake_script)()
+local function UAOHA_fake_script() -- ultimatePVP.Button.drag 
 	local script = Instance.new('LocalScript', ultimatePVP.Button)
 
 	local frame = script.Parent
@@ -2360,8 +2453,8 @@ local function KVND_fake_script() -- ultimatePVP.Button.drag
 	end)
 	
 end
-coroutine.wrap(KVND_fake_script)()
-local function XCWNZ_fake_script() -- ultimatePVP.GuiMenu.GuiMENU 
+coroutine.wrap(UAOHA_fake_script)()
+local function YDFOH_fake_script() -- ultimatePVP.GuiMenu.GuiMENU 
 	local script = Instance.new('LocalScript', ultimatePVP.GuiMenu)
 
 	local Players = game:GetService("Players")
@@ -2400,8 +2493,8 @@ local function XCWNZ_fake_script() -- ultimatePVP.GuiMenu.GuiMENU
 	toggleButton.MouseButton1Click:Connect(toggleVisibility)
 	
 end
-coroutine.wrap(XCWNZ_fake_script)()
-local function FEKGXXS_fake_script() -- ultimatePVP.Gui.drag 
+coroutine.wrap(YDFOH_fake_script)()
+local function HGZIHUM_fake_script() -- ultimatePVP.Gui.drag 
 	local script = Instance.new('LocalScript', ultimatePVP.Gui)
 
 	local frame = script.Parent
@@ -2452,8 +2545,8 @@ local function FEKGXXS_fake_script() -- ultimatePVP.Gui.drag
 		end
 	end)
 end
-coroutine.wrap(FEKGXXS_fake_script)()
-local function IORW_fake_script() -- ultimatePVP.Icon.IconLoad 
+coroutine.wrap(HGZIHUM_fake_script)()
+local function KTYDWS_fake_script() -- ultimatePVP.Icon.IconLoad 
 	local script = Instance.new('LocalScript', ultimatePVP.Icon)
 
 	local Players = game:GetService("Players")
@@ -2469,16 +2562,16 @@ local function IORW_fake_script() -- ultimatePVP.Icon.IconLoad
 	imageLabel.Image = content
 	
 end
-coroutine.wrap(IORW_fake_script)()
-local function DNVRTZI_fake_script() -- ultimatePVP.Username.UsernameLoad 
+coroutine.wrap(KTYDWS_fake_script)()
+local function PDBV_fake_script() -- ultimatePVP.Username.UsernameLoad 
 	local script = Instance.new('LocalScript', ultimatePVP.Username)
 
 	local player = game:GetService("Players").LocalPlayer
 	script.Parent.Text = player.Name
 	
 end
-coroutine.wrap(DNVRTZI_fake_script)()
-local function DDIMQS_fake_script() -- ultimatePVP.WarpMenu.PageManager 
+coroutine.wrap(PDBV_fake_script)()
+local function VINWS_fake_script() -- ultimatePVP.WarpMenu.PageManager 
 	local script = Instance.new('LocalScript', ultimatePVP.WarpMenu)
 
 	local WarpMenu = script.Parent
@@ -2520,8 +2613,8 @@ local function DDIMQS_fake_script() -- ultimatePVP.WarpMenu.PageManager
 	switchToTab(1)
 	
 end
-coroutine.wrap(DDIMQS_fake_script)()
-local function YLHJUX_fake_script() -- ultimatePVP.JumpCircle.FunctionJumpCircle 
+coroutine.wrap(VINWS_fake_script)()
+local function EJAOF_fake_script() -- ultimatePVP.JumpCircle.FunctionJumpCircle 
 	local script = Instance.new('LocalScript', ultimatePVP.JumpCircle)
 
 	local TweenService = game:GetService("TweenService")
@@ -2585,8 +2678,8 @@ local function YLHJUX_fake_script() -- ultimatePVP.JumpCircle.FunctionJumpCircle
 	player.CharacterAdded:Connect(setupCharacter)
 	
 end
-coroutine.wrap(YLHJUX_fake_script)()
-local function IXWAHCA_fake_script() -- ultimatePVP.Trail.FunctionTrail 
+coroutine.wrap(EJAOF_fake_script)()
+local function VATMVLA_fake_script() -- ultimatePVP.Trail.FunctionTrail 
 	local script = Instance.new('LocalScript', ultimatePVP.Trail)
 
 	local Players = game:GetService("Players")
@@ -2636,8 +2729,8 @@ local function IXWAHCA_fake_script() -- ultimatePVP.Trail.FunctionTrail
 	player.CharacterAdded:Connect(setupCharacter)
 	
 end
-coroutine.wrap(IXWAHCA_fake_script)()
-local function NPXOVMX_fake_script() -- ultimatePVP.Atmosphere.FunctionAtmosphere 
+coroutine.wrap(VATMVLA_fake_script)()
+local function NMTWC_fake_script() -- ultimatePVP.Atmosphere.FunctionAtmosphere 
 	local script = Instance.new('LocalScript', ultimatePVP.Atmosphere)
 
 	local Lighting = game:GetService("Lighting")
@@ -2699,8 +2792,8 @@ local function NPXOVMX_fake_script() -- ultimatePVP.Atmosphere.FunctionAtmospher
 	end)
 	
 end
-coroutine.wrap(NPXOVMX_fake_script)()
-local function RUZA_fake_script() -- ultimatePVP.ESPinfo.FunctionESPinfo 
+coroutine.wrap(NMTWC_fake_script)()
+local function HHDPOU_fake_script() -- ultimatePVP.ESPinfo.FunctionESPinfo 
 	local script = Instance.new('LocalScript', ultimatePVP.ESPinfo)
 
 	local button = script.Parent
@@ -3258,8 +3351,8 @@ local function RUZA_fake_script() -- ultimatePVP.ESPinfo.FunctionESPinfo
 	
 	script.Destroying:Connect(disableESP)
 end
-coroutine.wrap(RUZA_fake_script)()
-local function AOKT_fake_script() -- ultimatePVP.ESPplayers.FunctionESPplayers 
+coroutine.wrap(HHDPOU_fake_script)()
+local function DPLDEFW_fake_script() -- ultimatePVP.ESPplayers.FunctionESPplayers 
 	local script = Instance.new('LocalScript', ultimatePVP.ESPplayers)
 
 	local Players = game:GetService("Players")
@@ -3399,8 +3492,8 @@ local function AOKT_fake_script() -- ultimatePVP.ESPplayers.FunctionESPplayers
 	button.BackgroundTransparency = 0.7
 	enabled = false
 end
-coroutine.wrap(AOKT_fake_script)()
-local function ILNVP_fake_script() -- ultimatePVP.XRay.FunctionXRay 
+coroutine.wrap(DPLDEFW_fake_script)()
+local function COVRP_fake_script() -- ultimatePVP.XRay.FunctionXRay 
 	local script = Instance.new('LocalScript', ultimatePVP.XRay)
 
 	local button = script.Parent
@@ -3644,8 +3737,8 @@ local function ILNVP_fake_script() -- ultimatePVP.XRay.FunctionXRay
 		cleanupDeletedObjects()
 	end
 end
-coroutine.wrap(ILNVP_fake_script)()
-local function WXJXTK_fake_script() -- ultimatePVP.AntiRagdoll.FunctionAntiRagdoll 
+coroutine.wrap(COVRP_fake_script)()
+local function QLBZNTY_fake_script() -- ultimatePVP.AntiRagdoll.FunctionAntiRagdoll 
 	local script = Instance.new('LocalScript', ultimatePVP.AntiRagdoll)
 
 	local button = script.Parent
@@ -3928,8 +4021,8 @@ local function WXJXTK_fake_script() -- ultimatePVP.AntiRagdoll.FunctionAntiRagdo
 	
 	script.Destroying:Connect(cleanup)
 end
-coroutine.wrap(WXJXTK_fake_script)()
-local function XSMGLXM_fake_script() -- ultimatePVP.AntiKnockback.FunctionAntiKnockback 
+coroutine.wrap(QLBZNTY_fake_script)()
+local function HYZSGLD_fake_script() -- ultimatePVP.AntiKnockback.FunctionAntiKnockback 
 	local script = Instance.new('LocalScript', ultimatePVP.AntiKnockback)
 
 	local button = script.Parent
@@ -4066,14 +4159,14 @@ local function XSMGLXM_fake_script() -- ultimatePVP.AntiKnockback.FunctionAntiKn
 	
 	script.Destroying:Connect(cleanup)
 end
-coroutine.wrap(XSMGLXM_fake_script)()
-local function FCVO_fake_script() -- ultimatePVP.SpeedBost.FunctionSpeedBost 
+coroutine.wrap(HYZSGLD_fake_script)()
+local function WMSBIZ_fake_script() -- ultimatePVP.SpeedBost.FunctionSpeedBost 
 	local script = Instance.new('LocalScript', ultimatePVP.SpeedBost)
 
 	
 end
-coroutine.wrap(FCVO_fake_script)()
-local function WYYHXFG_fake_script() -- ultimatePVP.DoubleJump.FunctionDoubleJump 
+coroutine.wrap(WMSBIZ_fake_script)()
+local function DYZSSJ_fake_script() -- ultimatePVP.DoubleJump.FunctionDoubleJump 
 	local script = Instance.new('LocalScript', ultimatePVP.DoubleJump)
 
 	local button = script.Parent
@@ -4127,8 +4220,8 @@ local function WYYHXFG_fake_script() -- ultimatePVP.DoubleJump.FunctionDoubleJum
 	end)
 	
 end
-coroutine.wrap(WYYHXFG_fake_script)()
-local function UIHHKP_fake_script() -- ultimatePVP.NumJP.NumLimit 
+coroutine.wrap(DYZSSJ_fake_script)()
+local function SEQD_fake_script() -- ultimatePVP.NumJP.NumLimit 
 	local script = Instance.new('LocalScript', ultimatePVP.NumJP)
 
 	local textBox = script.Parent
@@ -4149,8 +4242,8 @@ local function UIHHKP_fake_script() -- ultimatePVP.NumJP.NumLimit
 	end)
 	
 end
-coroutine.wrap(UIHHKP_fake_script)()
-local function HRYBHS_fake_script() -- ultimatePVP.AutoHit.FunctionAutoHit 
+coroutine.wrap(SEQD_fake_script)()
+local function PAHM_fake_script() -- ultimatePVP.AutoHit.FunctionAutoHit 
 	local script = Instance.new('LocalScript', ultimatePVP.AutoHit)
 
 	local button = script.Parent
@@ -4372,8 +4465,8 @@ local function HRYBHS_fake_script() -- ultimatePVP.AutoHit.FunctionAutoHit
 	
 	button.BackgroundTransparency = 0.7
 end
-coroutine.wrap(HRYBHS_fake_script)()
-local function MFZC_fake_script() -- ultimatePVP.AutoAim.FunctionAutoAim 
+coroutine.wrap(PAHM_fake_script)()
+local function SJVAQN_fake_script() -- ultimatePVP.AutoAim.FunctionAutoAim 
 	local script = Instance.new('LocalScript', ultimatePVP.AutoAim)
 
 	local Players = game:GetService("Players")
@@ -4476,8 +4569,8 @@ local function MFZC_fake_script() -- ultimatePVP.AutoAim.FunctionAutoAim
 	RunService.RenderStepped:Connect(onUpdate)
 	
 end
-coroutine.wrap(MFZC_fake_script)()
-local function OPGTT_fake_script() -- ultimatePVP.AutoGrab.FunctionAutoGrab 
+coroutine.wrap(SJVAQN_fake_script)()
+local function TVGMZ_fake_script() -- ultimatePVP.AutoGrab.FunctionAutoGrab 
 	local script = Instance.new('LocalScript', ultimatePVP.AutoGrab)
 
 	local button = script.Parent
@@ -4681,8 +4774,8 @@ local function OPGTT_fake_script() -- ultimatePVP.AutoGrab.FunctionAutoGrab
 		end
 	end)
 end
-coroutine.wrap(OPGTT_fake_script)()
-local function TQELAP_fake_script() -- ultimatePVP.Platform.FunctionPlatform 
+coroutine.wrap(TVGMZ_fake_script)()
+local function GNAH_fake_script() -- ultimatePVP.Platform.FunctionPlatform 
 	local script = Instance.new('LocalScript', ultimatePVP.Platform)
 
 	local button = script.Parent
@@ -4703,8 +4796,30 @@ local function TQELAP_fake_script() -- ultimatePVP.Platform.FunctionPlatform
 		isVisible = not isVisible
 	end)
 end
-coroutine.wrap(TQELAP_fake_script)()
-local function GQKMB_fake_script() -- ultimatePVP.Color.SizeEffect 
+coroutine.wrap(GNAH_fake_script)()
+local function NWRE_fake_script() -- ultimatePVP.Telemotion.FunctionTelemotion 
+	local script = Instance.new('LocalScript', ultimatePVP.Telemotion)
+
+	local button = script.Parent
+	local screenGui = button:FindFirstAncestor("ultimatePVP")
+	local platformGui = screenGui:WaitForChild("telemotionGui")
+	
+	local isVisible = false
+	
+	button.MouseButton1Click:Connect(function()
+		if isVisible then
+			platformGui.Visible = false
+			button.BackgroundTransparency = 0.7
+		else
+			platformGui.Visible = true
+			button.BackgroundTransparency = 0.4
+		end
+	
+		isVisible = not isVisible
+	end)
+end
+coroutine.wrap(NWRE_fake_script)()
+local function PMUWZ_fake_script() -- ultimatePVP.Color.SizeEffect 
 	local script = Instance.new('LocalScript', ultimatePVP.Color)
 
 	local TweenService = game:GetService("TweenService")
@@ -4733,8 +4848,8 @@ local function GQKMB_fake_script() -- ultimatePVP.Color.SizeEffect
 	end
 	
 end
-coroutine.wrap(GQKMB_fake_script)()
-local function ZCIWMYH_fake_script() -- ultimatePVP.YNS.YNSscript 
+coroutine.wrap(PMUWZ_fake_script)()
+local function HYTTL_fake_script() -- ultimatePVP.YNS.YNSscript 
 	local script = Instance.new('LocalScript', ultimatePVP.YNS)
 
 	local button = script.Parent
@@ -4804,8 +4919,8 @@ local function ZCIWMYH_fake_script() -- ultimatePVP.YNS.YNSscript
 	script.Destroying:Connect(removeAllSounds)
 	
 end
-coroutine.wrap(ZCIWMYH_fake_script)()
-local function UUVO_fake_script() -- ultimatePVP.YNPI.YNPIscript 
+coroutine.wrap(HYTTL_fake_script)()
+local function BFEGQA_fake_script() -- ultimatePVP.YNPI.YNPIscript 
 	local script = Instance.new('LocalScript', ultimatePVP.YNPI)
 
 	local button = script.Parent
@@ -4827,8 +4942,8 @@ local function UUVO_fake_script() -- ultimatePVP.YNPI.YNPIscript
 	end)
 	
 end
-coroutine.wrap(UUVO_fake_script)()
-local function ZUPCNE_fake_script() -- ultimatePVP.platformGui.drag 
+coroutine.wrap(BFEGQA_fake_script)()
+local function TEZDEV_fake_script() -- ultimatePVP.platformGui.drag 
 	local script = Instance.new('LocalScript', ultimatePVP.platformGui)
 
 	local frame = script.Parent
@@ -4862,8 +4977,8 @@ local function ZUPCNE_fake_script() -- ultimatePVP.platformGui.drag
 	end)
 	
 end
-coroutine.wrap(ZUPCNE_fake_script)()
-local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform 
+coroutine.wrap(TEZDEV_fake_script)()
+local function IIZCT_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform 
 	local script = Instance.new('LocalScript', ultimatePVP.Platform_2)
 
 	local player = game.Players.LocalPlayer
@@ -4878,13 +4993,11 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 	local connection = nil
 	local trackingConnection = nil
 	local trackedParts = {}
-	local originalProperties = {} -- Храним исходные свойства
+	local originalProperties = {}
 	
-	-- Функция для сохранения и применения свойств для частей
 	local function applyPropertiesToPart(part)
 		if not part:IsA("BasePart") then return end
 	
-		-- Сохраняем исходные свойства, если ещё не сохранили
 		if not originalProperties[part] then
 			originalProperties[part] = {
 				Transparency = part.Transparency,
@@ -4893,53 +5006,44 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 			}
 		end
 	
-		-- Применяем новые свойства
 		part.Transparency = 1
 		part.CanCollide = false
 		part.Anchored = true
 	
-		-- Сохраняем ссылку на часть для дальнейшего управления
 		if not table.find(trackedParts, part) then
 			table.insert(trackedParts, part)
 		end
 	end
 	
-	-- Функция для восстановления исходных свойств
 	local function restoreOriginalProperties()
 		for _, part in ipairs(trackedParts) do
 			if part and part.Parent and originalProperties[part] then
-				-- Восстанавливаем только те свойства, которые мы меняли
 				part.Transparency = originalProperties[part].Transparency
 				part.CanCollide = originalProperties[part].CanCollide
 				part.Anchored = originalProperties[part].Anchored
 			end
 		end
 	
-		-- Очищаем таблицы
 		trackedParts = {}
 		originalProperties = {}
 	end
 	
-	-- Функция для проверки и обработки всей структуры
 	local function processDecorations(decorationsFolder)
 		if not decorationsFolder then return end
 	
-		-- Обрабатываем существующие части
 		for _, part in ipairs(decorationsFolder:GetChildren()) do
 			if part:IsA("BasePart") then
 				applyPropertiesToPart(part)
 			end
 		end
 	
-		-- Следим за добавлением новых частей
 		local childAddedConnection = decorationsFolder.ChildAdded:Connect(function(child)
 			if child:IsA("BasePart") then
-				task.wait() -- Небольшая задержка для стабильности
+				task.wait()
 				applyPropertiesToPart(child)
 			end
 		end)
 	
-		-- Следим за изменением свойств частей
 		local changedConnection = decorationsFolder.DescendantAdded:Connect(function(descendant)
 			if descendant:IsA("BasePart") then
 				task.wait(0.1)
@@ -4950,7 +5054,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		return {childAddedConnection, changedConnection}
 	end
 	
-	-- Функция для обработки одного AnimalPodium
 	local function processAnimalPodium(animalPodium)
 		if not animalPodium then return end
 	
@@ -4961,7 +5064,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 				return processDecorations(decorations)
 			end
 	
-			-- Если Decorations появится позже
 			local baseConnection = base.ChildAdded:Connect(function(child)
 				if child.Name == "Decorations" then
 					processDecorations(child)
@@ -4971,7 +5073,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 			return {baseConnection}
 		end
 	
-		-- Если Base появится позже
 		local animalPodiumConnection = animalPodium.ChildAdded:Connect(function(child)
 			if child.Name == "Base" then
 				processAnimalPodium(animalPodium)
@@ -4981,7 +5082,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		return {animalPodiumConnection}
 	end
 	
-	-- Функция для обработки одного Plot
 	local function processPlot(plot)
 		if not plot then return end
 	
@@ -4989,7 +5089,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		if animalPodiums then
 			local connections = {}
 	
-			-- Обрабатываем существующие AnimalPodiums
 			for _, animalPodium in ipairs(animalPodiums:GetChildren()) do
 				local podiumConns = processAnimalPodium(animalPodium)
 				if podiumConns then
@@ -4999,7 +5098,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 				end
 			end
 	
-			-- Следим за добавлением новых AnimalPodiums
 			local addedConnection = animalPodiums.ChildAdded:Connect(function(animalPodium)
 				local podiumConns = processAnimalPodium(animalPodium)
 				if podiumConns then
@@ -5013,7 +5111,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 			return connections
 		end
 	
-		-- Если AnimalPodiums появится позже
 		local plotConnection = plot.ChildAdded:Connect(function(child)
 			if child.Name == "AnimalPodiums" then
 				processPlot(plot)
@@ -5023,14 +5120,12 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		return {plotConnection}
 	end
 	
-	-- Основная функция отслеживания
 	local function startTracking()
 		local plots = workspace:FindFirstChild("Plots")
 		if not plots then return function() end end
 	
 		local allConnections = {}
 	
-		-- Обрабатываем существующие Plots
 		for _, plot in ipairs(plots:GetChildren()) do
 			local plotConns = processPlot(plot)
 			if plotConns then
@@ -5040,7 +5135,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 			end
 		end
 	
-		-- Следим за добавлением новых Plots
 		local plotsAddedConnection = plots.ChildAdded:Connect(function(plot)
 			local plotConns = processPlot(plot)
 			if plotConns then
@@ -5052,7 +5146,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 	
 		table.insert(allConnections, plotsAddedConnection)
 	
-		-- Функция для остановки отслеживания
 		return function()
 			for _, conn in ipairs(allConnections) do
 				if conn then
@@ -5063,7 +5156,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		end
 	end
 	
-	-- Функция для периодической проверки и применения свойств
 	local function ensureProperties()
 		for _, part in ipairs(trackedParts) do
 			if part and part.Parent then
@@ -5073,7 +5165,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 				if part.CanCollide ~= false then
 					part.CanCollide = false
 				end
-				-- Anchored не проверяем, так как его мы не меняем обратно
 			end
 		end
 	end
@@ -5082,7 +5173,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		if not platform then
 			button.BackgroundTransparency = 0.4
 	
-			-- Создаем платформу
 			platform = Instance.new("Part")
 			platform.Name = platformName
 			platform.Size = Vector3.new(10, 1, 10)
@@ -5099,7 +5189,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 				platform.Position = hrp.Position - Vector3.new(0, offset, 0)
 			end
 	
-			-- Запускаем движение платформы
 			connection = runService.RenderStepped:Connect(function(dt)
 				local character = player.Character
 				local root = character and character:FindFirstChild("HumanoidRootPart")
@@ -5114,11 +5203,9 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 				end
 			end)
 	
-			-- Запускаем отслеживание моделей
 			local stopTracking = startTracking()
 			trackingConnection = runService.Heartbeat:Connect(ensureProperties)
 	
-			-- Сохраняем функцию остановки отслеживания
 			platform:GetPropertyChangedSignal("Parent"):Connect(function()
 				if not platform.Parent then
 					if stopTracking then
@@ -5128,7 +5215,7 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 						trackingConnection:Disconnect()
 						trackingConnection = nil
 					end
-					-- Восстанавливаем свойства при удалении платформы
+	
 					restoreOriginalProperties()
 				end
 			end)
@@ -5136,7 +5223,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		else
 			button.BackgroundTransparency = 0.7
 	
-			-- Останавливаем всё
 			if connection then 
 				connection:Disconnect() 
 				connection = nil
@@ -5147,7 +5233,6 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 				trackingConnection = nil
 			end
 	
-			-- Восстанавливаем исходные свойства частей
 			restoreOriginalProperties()
 	
 			if platform then 
@@ -5157,27 +5242,114 @@ local function DMRZQ_fake_script() -- ultimatePVP.Platform_2.FunctionPlatform
 		end
 	end)
 	
-	-- Очистка при удалении скрипта или игры
 	game:GetService("Players").PlayerRemoving:Connect(function(leavingPlayer)
 		if leavingPlayer == player then
 			if connection then connection:Disconnect() end
 			if trackingConnection then trackingConnection:Disconnect() end
 	
-			-- Восстанавливаем свойства перед выходом
 			restoreOriginalProperties()
 	
 			if platform then platform:Destroy() end
 		end
 	end)
 	
-	-- Также восстанавливаем свойства при удалении скрипта
 	script.Destroying:Connect(function()
 		if trackingConnection then
 			trackingConnection:Disconnect()
 		end
 	
-		-- Восстанавливаем свойства при удалении скрипта
 		restoreOriginalProperties()
 	end)
 end
-coroutine.wrap(DMRZQ_fake_script)()
+coroutine.wrap(IIZCT_fake_script)()
+local function LGIEQ_fake_script() -- ultimatePVP.telemotionGui.drag 
+	local script = Instance.new('LocalScript', ultimatePVP.telemotionGui)
+
+	local frame = script.Parent
+	local UIS = game:GetService("UserInputService")
+	
+	local dragging, dragStart, startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		frame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = frame.Position
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+			update(input)
+		end
+	end)
+	
+	UIS.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = false
+		end
+	end)
+	
+end
+coroutine.wrap(LGIEQ_fake_script)()
+local function SGYA_fake_script() -- ultimatePVP.Telemotion_2.FunctionTelemotion 
+	local script = Instance.new('LocalScript', ultimatePVP.Telemotion_2)
+
+	local button = script.Parent
+	local player = game.Players.LocalPlayer
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoid = character:WaitForChild("Humanoid")
+	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+	
+	local flying = false
+	local connection
+	
+	local function startFlying()
+		humanoid.PlatformStand = false
+	
+		connection = game:GetService("RunService").Heartbeat:Connect(function(deltaTime)
+			local camera = workspace.CurrentCamera
+			local direction = camera.CFrame.LookVector
+			humanoidRootPart.Velocity = direction * 25
+		end)
+	end
+	
+	local function stopFlying()
+		if connection then
+			connection:Disconnect()
+			connection = nil
+		end
+		humanoid.PlatformStand = false
+		humanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+	end
+	
+	button.MouseButton1Click:Connect(function()
+		flying = not flying
+	
+		if flying then
+			button.BackgroundTransparency = 0.4
+			startFlying()
+		else
+			button.BackgroundTransparency = 0.7
+			stopFlying()
+		end
+	end)
+	
+	player.CharacterAdded:Connect(function(newCharacter)
+		character = newCharacter
+		humanoid = newCharacter:WaitForChild("Humanoid")
+		humanoidRootPart = newCharacter:WaitForChild("HumanoidRootPart")
+	
+		if flying then
+			flying = false
+			button.BackgroundTransparency = 0.7
+			stopFlying()
+		end
+	end)
+end
+coroutine.wrap(SGYA_fake_script)()
